@@ -1,4 +1,4 @@
-# Sample list of numbers
+ # Sample list of numbers
 digits = [3, 1, 4, 1, 5, 9, 2]
 
 # Q&A style breakdown (answers kept for clarity):

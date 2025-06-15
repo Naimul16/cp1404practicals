@@ -26,3 +26,4 @@ def display_report(earnings):
 
 
 main()
+

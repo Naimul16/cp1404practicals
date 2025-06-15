@@ -1,4 +1,4 @@
-"""
+ """
 CP1404/CP5632 Practical
 Quick Pick Lottery Ticket Generator
 """
@@ -22,3 +22,4 @@ def main():
         print(" ".join(f"{num:2}" for num in numbers))
 
 main()
+
